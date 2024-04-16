@@ -1,0 +1,248 @@
+[
+  {
+      "name": "Fungal infection",
+      "description": "Fungal infection is a common skin infection that occurs when fungi invade the skin. It can cause itching, redness, and peeling of the skin.",
+      "precautions": ["Keep the affected area clean and dry", "Avoid sharing towels, bedding, or clothes", "Use antifungal powder or cream as directed by your doctor"],
+      "medications": ["Clotrimazole", "Miconazole", "Terbinafine"]
+  },
+  {
+      "name": "Allergy",
+      "description": "Allergy is an overreaction of the body's immune system to substances that are usually harmless. It can cause symptoms such as sneezing, itching, and watery eyes.",
+      "precautions": ["Identify and avoid triggers", "Keep windows closed during high pollen seasons", "Wear a mask when working with dust or pollen"],
+      "medications": ["Antihistamines", "Decongestants", "Corticosteroids"]
+  },
+  {
+      "name": "GERD",
+      "description": "Gastroesophageal reflux disease (GERD) is a chronic condition where stomach acid flows back into the esophagus, causing irritation and inflammation.",
+      "precautions": ["Eat smaller, more frequent meals", "Avoid lying down immediately after eating", "Limit intake of spicy or acidic foods"],
+      "medications": ["Proton pump inhibitors (PPIs)", "H2 receptor blockers", "Antacids"]
+  },
+  {
+      "name": "Chronic cholestasis",
+      "description": "Chronic cholestasis is a condition where bile flow from the liver is reduced, leading to a buildup of bile in the liver. It can cause itching, fatigue, and yellowing of the skin and eyes (jaundice).",
+      "precautions": ["Follow a low-fat diet", "Stay hydrated", "Avoid alcohol and certain medications that can worsen liver function"],
+      "medications": ["Ursodeoxycholic acid (UDCA)", "Cholestyramine", "Obeticholic acid (OCA)"]
+  },
+  {
+      "name": "Drug Reaction",
+      "description": "Drug reaction, also known as drug allergy, occurs when the body's immune system reacts to a medication. Symptoms can range from mild skin rashes to severe allergic reactions.",
+      "precautions": ["Avoid the medication that caused the reaction", "Inform healthcare providers about drug allergies", "Carry an emergency epinephrine injector (EpiPen) if prescribed"],
+      "medications": ["Antihistamines", "Corticosteroids", "Epinephrine (for severe reactions)"]
+  },
+  {
+      "name": "Peptic ulcer disease",
+      "description": "Peptic ulcer disease is a condition where open sores develop on the lining of the stomach, small intestine, or esophagus. It can cause abdominal pain, bloating, and heartburn.",
+      "precautions": ["Avoid smoking and alcohol", "Limit use of nonsteroidal anti-inflammatory drugs (NSAIDs)", "Manage stress through relaxation techniques"],
+      "medications": ["Proton pump inhibitors (PPIs)", "H2 receptor blockers", "Antibiotics (if caused by H. pylori infection)"]
+  },
+  {
+      "name": "AIDS",
+      "description": "AIDS (Acquired Immunodeficiency Syndrome) is a chronic, potentially life-threatening condition caused by the human immunodeficiency virus (HIV). It weakens the immune system, making the body susceptible to opportunistic infections and certain cancers.",
+      "precautions": ["Practice safe sex", "Use clean needles if injecting drugs", "Get tested for HIV regularly"],
+      "medications": ["Antiretroviral therapy (ART)"]
+  },
+  {
+      "name": "Diabetes",
+      "description": "Diabetes is a chronic condition characterized by high blood sugar levels. It occurs when the body either does not produce enough insulin or cannot effectively use the insulin it produces.",
+      "precautions": ["Monitor blood sugar levels regularly", "Follow a balanced diet", "Engage in regular physical activity"],
+      "medications": ["Insulin", "Oral medications (e.g., metformin, sulfonylureas)"]
+  },
+  {
+      "name": "Gastroenteritis",
+      "description": "Gastroenteritis, often referred to as the stomach flu, is an inflammation of the stomach and intestines. It is usually caused by viral or bacterial infections and can lead to symptoms such as diarrhea, vomiting, and abdominal pain.",
+      "precautions": ["Stay hydrated by drinking plenty of fluids", "Eat bland foods such as bananas, rice, and toast", "Practice good hand hygiene to prevent the spread of infection"],
+      "medications": ["Antidiarrheal medications", "Antiemetics (to control vomiting)"]
+  },
+  {
+      "name": "Bronchial Asthma",
+      "description": "Bronchial asthma is a chronic inflammatory condition of the airways that causes episodes of wheezing, coughing, chest tightness, and shortness of breath. It is often triggered by allergens or irritants.",
+      "precautions": ["Avoid triggers such as pollen, dust, and smoke", "Use a peak flow meter to monitor lung function", "Keep rescue inhalers and medications on hand at all times"],
+      "medications": ["Inhaled corticosteroids", "Bronchodilators (e.g., albuterol)"]
+  },
+  {
+      "name": "Hypertension",
+      "description": "Hypertension, or high blood pressure, is a condition where the force of blood against the walls of the arteries is consistently too high. It can lead to serious health complications such as heart disease, stroke, and kidney failure.",
+      "precautions": ["Maintain a healthy weight", "Follow a low-sodium diet", "Exercise regularly and limit alcohol intake"],
+      "medications": ["Antihypertensive medications (e.g., ACE inhibitors, diuretics)"]
+  },
+  {
+      "name": "Migraine",
+      "description": "Migraine is a neurological condition characterized by recurrent episodes of moderate to severe headaches, often accompanied by nausea, vomiting, and sensitivity to light and sound.",
+      "precautions": ["Identify and avoid triggers such as certain foods, stress, and lack of sleep", "Establish a regular sleep schedule", "Practice relaxation techniques such as deep breathing and meditation"],
+      "medications": ["Pain relievers (e.g., acetaminophen, ibuprofen)", "Triptans (for acute migraine attacks)"]
+  },
+  {
+      "name": "Cervical spondylosis",
+      "description": "Cervical spondylosis is a degenerative condition of the cervical spine (neck) caused by wear and tear of the cartilage and bones. It can lead to symptoms such as neck pain, stiffness, and numbness or weakness in the arms or hands.",
+      "precautions": ["Practice good posture", "Use ergonomic furniture and devices", "Engage in regular neck exercises and stretches"],
+      "medications": ["Pain relievers (e.g., acetaminophen, NSAIDs)", "Muscle relaxants"]
+  },
+  {
+      "name": "Paralysis (brain hemorrhage)",
+      "description": "Paralysis resulting from a brain hemorrhage occurs when bleeding in the brain damages nerve cells, leading to loss of movement and sensation in certain parts of the body. The severity of paralysis depends on the location and extent of the hemorrhage.",
+      "precautions": ["Follow a rehabilitation program tailored to your needs", "Take measures to prevent falls and injuries", "Address any underlying risk factors such as high blood pressure and diabetes"],
+      "medications": ["Anticoagulants (to prevent blood clots)", "Anticonvulsants (to prevent seizures)"]
+  },
+  {
+      "name": "Jaundice",
+      "description": "Jaundice is a condition characterized by yellowing of the skin and eyes. It occurs when the liver is unable to process bilirubin, a yellow pigment produced by the breakdown of red blood cells.",
+      "precautions": ["Stay well-hydrated by drinking plenty of fluids", "Eat a balanced diet rich in fruits and vegetables", "Avoid alcohol and certain medications that can worsen liver function"],
+      "medications": ["Treatment depends on the underlying cause of jaundice"]
+  },
+  {
+      "name": "Malaria",
+      "description": "Malaria is a mosquito-borne infectious disease caused by parasites of the genus Plasmodium. It can lead to symptoms such as fever, chills, headache, and muscle aches.",
+      "precautions": ["Use insect repellent and mosquito nets", "Take antimalarial medications as prescribed", "Seek medical attention if you develop symptoms of malaria"],
+      "medications": ["Antimalarial drugs (e.g., chloroquine, artemisinin-based combination therapy)"]
+  },
+  {
+      "name": "Chicken pox",
+      "description": "Chickenpox is a highly contagious viral infection caused by the varicella-zoster virus. It is characterized by an itchy rash of red spots and fluid-filled blisters that eventually crust over and heal.",
+      "precautions": ["Keep the affected person isolated until all blisters have crusted over", "Trim fingernails to prevent scratching and secondary bacterial infections", "Use calamine lotion or antihistamines to relieve itching"],
+      "medications": ["Acetaminophen (for fever and discomfort)", "Antiviral drugs (if prescribed within 24 hours of rash onset)"]
+  },
+  {
+      "name": "Dengue",
+      "description": "Dengue fever is a mosquito-borne viral infection that causes flu-like symptoms, including fever, headache, muscle and joint pain, and rash. In severe cases, it can lead to dengue hemorrhagic fever or dengue shock syndrome.",
+      "precautions": ["Prevent mosquito breeding by eliminating standing water around the home", "Use insect repellent and protective clothing to prevent mosquito bites", "Seek medical attention if you develop symptoms of dengue"],
+      "medications": ["Acetaminophen (for fever and pain relief)", "Intravenous fluids (for severe cases)"]
+  },
+  {
+      "name": "Typhoid",
+      "description": "Typhoid fever is a bacterial infection caused by Salmonella typhi. It is spread through contaminated food and water and can lead to symptoms such as high fever, headache, abdominal pain, and diarrhea or constipation.",
+      "precautions": ["Practice good hygiene, including handwashing and food safety measures", "Drink only boiled or bottled water", "Get vaccinated against typhoid if traveling to high-risk areas"],
+      "medications": ["Antibiotics (e.g., ciprofloxacin, azithromycin)"]
+  },
+  {
+      "name": "hepatitis A",
+      "description": "Hepatitis A is a viral infection of the liver caused by the hepatitis A virus (HAV). It is usually spread through contaminated food or water and can lead to symptoms such as fatigue, nausea, abdominal pain, and jaundice.",
+      "precautions": ["Practice good hygiene, including handwashing and food safety measures", "Get vaccinated against hepatitis A", "Avoid close contact with infected individuals"],
+      "medications": ["Treatment is supportive, focusing on relieving symptoms and preventing complications"]
+  },
+  {
+      "name": "Hepatitis B",
+      "description": "Hepatitis B is a viral infection of the liver caused by the hepatitis B virus (HBV). It can be acute or chronic and is spread through contact with infected blood or bodily fluids.",
+      "precautions": ["Get vaccinated against hepatitis B", "Practice safe sex and avoid sharing needles", "Follow standard precautions in healthcare settings to prevent transmission"],
+      "medications": ["Antiviral drugs (e.g., tenofovir, entecavir)"]
+  },
+  {
+      "name": "Hepatitis C",
+      "description": "Hepatitis C is a viral infection of the liver caused by the hepatitis C virus (HCV). It can be acute or chronic and is spread through contact with infected blood.",
+      "precautions": ["Avoid sharing needles and other drug paraphernalia", "Practice safe sex", "Get tested for hepatitis C if you are at risk"],
+      "medications": ["Antiviral drugs (e.g., sofosbuvir, ledipasvir)"]
+  },
+  {
+      "name": "Hepatitis D",
+      "description": "Hepatitis D, also known as delta hepatitis, is a liver infection caused by the hepatitis D virus (HDV). It occurs only in people who are already infected with hepatitis B and can lead to more severe liver damage.",
+      "precautions": ["Get vaccinated against hepatitis B to prevent coinfection with hepatitis D", "Practice safe sex and avoid sharing needles", "Follow standard precautions in healthcare settings to prevent transmission"],
+      "medications": ["There is no specific treatment for hepatitis D; treatment focuses on managing symptoms and complications"]
+  },
+  {
+      "name": "Hepatitis E",
+      "description": "Hepatitis E is a viral infection of the liver caused by the hepatitis E virus (HEV). It is usually spread through contaminated food or water and is most common in areas with poor sanitation.",
+      "precautions": ["Practice good hygiene, including handwashing and food safety measures", "Drink only boiled or bottled water when traveling to high-risk areas", "Avoid eating undercooked or raw shellfish"],
+      "medications": ["There is no specific treatment for hepatitis E; treatment focuses on relieving symptoms and preventing complications"]
+  },
+  {
+      "name": "Alcoholic hepatitis",
+      "description": "Alcoholic hepatitis is inflammation of the liver caused by excessive alcohol consumption. It can lead to symptoms such as jaundice, abdominal pain, and liver failure.",
+      "precautions": ["Limit or avoid alcohol consumption", "Eat a healthy diet rich in fruits, vegetables, and whole grains", "Seek treatment for alcohol dependence if necessary"],
+      "medications": ["Corticosteroids (for severe cases)", "Nutritional supplements"]
+  },
+  {
+      "name": "Tuberculosis",
+      "description": "Tuberculosis (TB) is a bacterial infection caused by Mycobacterium tuberculosis. It primarily affects the lungs but can also affect other parts of the body. It can lead to symptoms such as cough, fever, weight loss, and night sweats.",
+      "precautions": ["Take all prescribed medications as directed by your healthcare provider", "Practice good respiratory hygiene (e.g., covering your mouth when coughing or sneezing)", "Avoid close contact with individuals known to have TB"],
+      "medications": ["Antibiotics (e.g., isoniazid, rifampin, ethambutol, pyrazinamide)"]
+  },
+  {
+      "name": "Common Cold",
+      "description": "The common cold is a viral infection of the upper respiratory tract. It is usually caused by rhinoviruses and can lead to symptoms such as sneezing, coughing, sore throat, and runny or stuffy nose.",
+      "precautions": ["Wash your hands frequently", "Avoid close contact with individuals who have a cold", "Get plenty of rest and stay hydrated"],
+      "medications": ["Over-the-counter cold medications (e.g., decongestants, pain relievers, cough suppressants)"]
+  },
+  {
+      "name": "Pneumonia",
+      "description": "Pneumonia is an infection of the lungs that can be caused by bacteria, viruses, or fungi. It leads to inflammation of the air sacs in the lungs, which can cause symptoms such as cough, fever, chills, and difficulty breathing.",
+      "precautions": ["Get vaccinated against influenza and pneumococcal pneumonia", "Practice good respiratory hygiene (e.g., covering your mouth when coughing or sneezing)", "Seek prompt medical attention if you develop symptoms of pneumonia"],
+      "medications": ["Antibiotics (for bacterial pneumonia)", "Antiviral drugs (for viral pneumonia)", "Antifungal drugs (for fungal pneumonia)"]
+  },
+  {
+      "name": "Dimorphic hemmorhoids(piles)",
+      "description": "Hemorrhoids, also known as piles, are swollen and inflamed veins in the rectum and anus. They can cause pain, itching, and bleeding during bowel movements.",
+      "precautions": ["Eat a high-fiber diet rich in fruits, vegetables, and whole grains", "Stay hydrated by drinking plenty of fluids", "Avoid straining during bowel movements"],
+      "medications": ["Over-the-counter hemorrhoid creams or suppositories", "Fiber supplements"]
+  },
+  {
+      "name": "Heart attack",
+      "description": "A heart attack, also known as a myocardial infarction, occurs when blood flow to a part of the heart is blocked, leading to damage or death of heart muscle tissue. It is a medical emergency that requires immediate treatment.",
+      "precautions": ["Quit smoking", "Follow a heart-healthy diet low in saturated fat and cholesterol", "Engage in regular physical activity"],
+      "medications": ["Aspirin (to reduce blood clotting)", "Thrombolytic drugs (to dissolve blood clots)", "Beta-blockers (to reduce heart rate and blood pressure)"]
+  },
+  {
+      "name": "Varicose veins",
+      "description": "Varicose veins are enlarged, twisted veins that often appear blue or purple in color. They typically occur in the legs and can cause symptoms such as pain, swelling, and aching.",
+      "precautions": ["Elevate your legs when resting or sleeping", "Avoid sitting or standing for long periods", "Wear compression stockings to improve circulation"],
+      "medications": ["Over-the-counter pain relievers (e.g., acetaminophen, ibuprofen)", "Topical creams or gels containing horse chestnut extract or witch hazel"]
+  },
+  {
+      "name": "Hypothyroidism",
+      "description": "Hypothyroidism is a condition where the thyroid gland does not produce enough thyroid hormone. It can lead to symptoms such as fatigue, weight gain, constipation, and cold intolerance.",
+      "precautions": ["Take thyroid hormone replacement medication as prescribed by your doctor", "Eat a balanced diet rich in fruits, vegetables, and whole grains", "Get regular exercise"],
+      "medications": ["Levothyroxine (synthetic thyroid hormone)"]
+  },
+  {
+      "name": "Hyperthyroidism",
+      "description": "Hyperthyroidism is a condition where the thyroid gland produces too much thyroid hormone. It can lead to symptoms such as weight loss, rapid heartbeat, sweating, and nervousness.",
+      "precautions": ["Take antithyroid medications as prescribed by your doctor", "Avoid foods high in iodine, such as seaweed and iodized salt", "Get regular check-ups to monitor thyroid function"],
+      "medications": ["Antithyroid medications (e.g., methimazole, propylthiouracil)", "Beta-blockers (to manage symptoms such as rapid heartbeat)"]
+  },
+  {
+      "name": "Hypoglycemia",
+      "description": "Hypoglycemia, or low blood sugar, occurs when blood glucose levels drop below normal. It can be caused by skipping meals, excessive alcohol consumption, or certain medications.",
+      "precautions": ["Eat regular meals and snacks to maintain stable blood sugar levels", "Carry a source of fast-acting sugar (e.g., glucose tablets, candy) for emergencies", "Check blood sugar levels frequently, especially if taking insulin or diabetes medications"],
+      "medications": ["Glucose tablets or gel", "Glucagon (for severe hypoglycemia)"]
+  },
+  {
+      "name": "Osteoarthristis",
+      "description": "Osteoarthritis is a degenerative joint disease characterized by the breakdown of cartilage in the joints. It can lead to symptoms such as joint pain, stiffness, and swelling.",
+      "precautions": ["Maintain a healthy weight to reduce stress on the joints", "Engage in regular low-impact exercise such as swimming or cycling", "Use assistive devices such as braces or splints to support the affected joints"],
+      "medications": ["Pain relievers (e.g., acetaminophen, NSAIDs)", "Topical creams or gels containing capsaicin or NSAIDs"]
+  },
+  {
+      "name": "Arthritis",
+      "description": "Arthritis is a broad term that refers to inflammation of the joints. There are many different types of arthritis, each with its own causes and symptoms. Common types include osteoarthritis, rheumatoid arthritis, and gout.",
+      "precautions": ["Stay active with regular exercise to maintain joint mobility and strength", "Eat a balanced diet rich in fruits, vegetables, and omega-3 fatty acids", "Use assistive devices or adaptive equipment to reduce strain on the joints"],
+      "medications": ["Pain relievers (e.g., acetaminophen, NSAIDs)", "Disease-modifying antirheumatic drugs (DMARDs)"]
+  },
+  {
+      "name": "(vertigo) Paroxysmal Positional Vertigo",
+      "description": "Paroxysmal positional vertigo (BPPV) is a disorder of the inner ear that causes brief episodes of dizziness or vertigo triggered by changes in head position. It is often described as a spinning sensation.",
+      "precautions": ["Avoid sudden head movements or positions that trigger vertigo", "Use caution when getting out of bed or changing positions", "Perform specific head and body movements as directed by a healthcare provider to reposition displaced inner ear crystals"],
+      "medications": ["Antihistamines (to relieve symptoms of vertigo)", "Benzodiazepines (to reduce anxiety and dizziness)"]
+  },
+  {
+      "name": "Acne",
+      "description": "Acne is a common skin condition that occurs when hair follicles become clogged with oil and dead skin cells, leading to the formation of pimples, blackheads, and whiteheads.",
+      "precautions": ["Wash your face twice daily with a gentle cleanser", "Avoid touching or picking at acne lesions", "Use non-comedogenic (non-pore-clogging) skincare products"],
+      "medications": ["Topical treatments (e.g., benzoyl peroxide, salicylic acid)", "Oral medications (e.g., antibiotics, isotretinoin)"]
+  },
+  {
+      "name": "Urinary tract infection",
+      "description": "A urinary tract infection (UTI) is an infection of the urinary system, including the kidneys, bladder, ureters, and urethra. It can lead to symptoms such as frequent urination, pain or burning during urination, and cloudy or foul-smelling urine.",
+      "precautions": ["Stay hydrated by drinking plenty of fluids", "Urinate frequently and completely", "Practice good hygiene, including wiping from front to back after using the bathroom"],
+      "medications": ["Antibiotics (e.g., trimethoprim-sulfamethoxazole, nitrofurantoin)"]
+  },
+  {
+      "name": "Psoriasis",
+      "description": "Psoriasis is a chronic autoimmune condition that causes rapid skin cell turnover, leading to the development of thick, red, scaly patches on the skin. It can occur anywhere on the body and may be associated with other health conditions such as psoriatic arthritis.",
+      "precautions": ["Keep skin moisturized with emollients or moisturizers", "Avoid triggers such as stress, smoking, and certain medications", "Use topical corticosteroids or other prescribed medications as directed by your doctor"],
+      "medications": ["Topical corticosteroids", "Topical retinoids", "Phototherapy (light therapy)"]
+  },
+  {
+      "name": "Impetigo",
+      "description": "Impetigo is a common and highly contagious bacterial skin infection that causes red sores or blisters that rupture and ooze fluid. It is most common in children and infants and can spread through close contact or by sharing towels, clothing, or bedding.",
+      "precautions": ["Keep the affected area clean and dry", "Avoid scratching or picking at impetigo sores", "Wash hands frequently and avoid sharing personal items with others"],
+      "medications": ["Topical antibiotics (e.g., mupirocin)", "Oral antibiotics (for more severe cases)"]
+  }
+]
